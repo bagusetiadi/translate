@@ -58,7 +58,7 @@
     "highlight-child": {
       "promotions": "プロモーション",
       "news": "ニュース",
-      "offering": "募集"
+      "offering": "キャンペーン"
     },
     "banners": "バナー",
     "banner": "バナー",
@@ -69,7 +69,7 @@
       "in-app-sales": "販売取引（アプリ内）",
       "referral": "紹介",
       "settlement": "決済",
-      "loyalty": "忠誠心",
+      "loyalty": "ロイヤリティ",
       "voucher": "クーポン"
     },
     "send_notifications": "通知を送信",
@@ -84,7 +84,7 @@
   },
   "user": {
     "columns": {
-      "name": "氏名",
+      "name": "名称",
       "role": "ロール",
       "assigned_at": "アサイン",
       "status": "ステータス"
@@ -107,7 +107,7 @@
     "form": {
       "upload_photo": "写真をアップロード",
       "upload_photo_note": "正式なプロファイル写真をご利用ください。おすすめの解像度は600x600です。",
-      "name": "氏名",
+      "name": "名称",
       "username": "ユーザ名",
       "role": "ロール",
       "gender": "性別",
@@ -181,7 +181,7 @@
       "location": "所在地",
       "address": "住所",
       "commision": "委員会",
-      "voucher": "コミッション % バウチャー",
+      "voucher": "コミッション % クーポン",
       "inAppPurchase": "アプリ購入のコミッション％",
       "inStorePurchase": "店舗購入中のコミッション％"
     },
@@ -395,7 +395,7 @@
       "male": "男性",
       "female": "女性",
       "status": "ステータス",
-      "deactivate": "無効にする",
+      "deactivate": "無効",
       "inactive": "無効",
       "active": "有効",
       "status_info": "{{status}}に、下のボタンをクリックします",
@@ -421,14 +421,14 @@
       "content": "本当にこの画面を閉じますか。",
       "second_content": "変更された箇所はまだ保存されていません。",
       "cancel": "キャンセル",
-      "confirm": "私は確信しています"
+      "confirm": "閉じる"
     }
   },
   "promotions": {
     "columns": {
       "image": "バナーのイメージ図",
       "headline": "見出し",
-      "publish_date": "オンに公開します",
+      "publish_date": "公開日時",
       "status": "ステータス"
     },
     "buttons": {
@@ -436,7 +436,7 @@
       "cancel": "キャンセル",
       "submit": "送信",
       "back": "戻る",
-      "sure": "私は確信しています"
+      "sure": "閉じる"
     },
     "label": {
       "filter": "ステータスで絞り込む",
@@ -452,7 +452,7 @@
       "brand": "ブランド",
       "store": "店舗",
       "status": "ステータス",
-      "deactivate": "無効にする",
+      "deactivate": "無効",
       "inactive": "無効",
       "active": "有効",
       "confirmation": "確認",
@@ -485,7 +485,7 @@
     },
     "form": {
       "headline_promotion": "見出し*",
-      "headline_offering": "見出しの提供",
+      "headline_offering": "タイトル",
       "headline_news": "ヘッドラインニュース",
       "publish_date": "公開日*",
       "end_date": "終了日*",
@@ -501,7 +501,7 @@
       "content": "本当にこの画面を閉じますか。",
       "second_content": "変更された箇所はまだ保存されていません。",
       "cancel": "キャンセル",
-      "confirm": "はい、確かです",
+      "confirm": "閉じる",
       "content_deactivate": "よろしいですか？",
       "second_content_deactivate": "このバナー？"
     }
@@ -510,7 +510,7 @@
     "columns": {
       "image": "バナーのイメージ図",
       "headline": "ヘッドラインニュース",
-      "publish_date": "オンに公開します",
+      "publish_date": "公開日時",
       "status": "ステータス"
     },
     "buttons": { "new": "新しいニュースを作成します" },
@@ -529,12 +529,12 @@
   "offering": {
     "columns": {
       "image": "バナーのイメージ図",
-      "headline": "見出しの提供",
-      "publish_date": "オンに公開します",
+      "headline": "タイトル",
+      "publish_date": "公開日時",
       "status": "ステータス"
     },
     "buttons": { 
-      "new": "新しい製品を作成します" 
+      "new": "新規キャンペーンを作成" 
     },
     "label": {
       "filter": "ステータスで絞り込む",
@@ -553,7 +553,7 @@
       "new": "新しいバナーを作成します",
       "submit": "送信",
       "cancel": "キャンセル",
-      "sure": "はい、確かです",
+      "sure": "閉じる",
       "back": "戻る"
     },
     "label": {
@@ -568,7 +568,7 @@
       "max_x_images": "最大 {{total}} 枚の画像",
       "item_images": "アイテム写真",
       "menu_image": "メニュー写真＊",
-      "deactivate": "無効にする",
+      "deactivate": "無効",
       "banner_plaeholder": "バナー名を入力します",
       "status_info": "{{status}}に、下のボタンをクリックします",
       "banner_image_info": "画像をこちらにドラッグしてアップロード、またはクリックして画像を選択",
@@ -584,7 +584,7 @@
     },
     "form": { "banner_name": "バナー名", "banner_image": "バナーのイメージ図" },
     "modal": {
-      "sure": "私は確信しています",
+      "sure": "閉じる",
       "content": "本当にこの画面を閉じますか。",
       "second_content": "変更された箇所はまだ保存されていません。",
       "content_deactivate": "よろしいですか？",
@@ -709,7 +709,7 @@
         "from_account_id": "（id user）から",
         "from_account_name": "(名前）から",
         "to_account_id": "（顧客番号）へ",
-        "to_account_name": "(顧客氏名）へ",
+        "to_account_name": "(顧客名称）へ",
         "total_amount": "合計金額",
         "trx_detail_id": "トランザクション詳細ID",
         "trx_type_amount": "トランザクションタイプの量",
@@ -813,7 +813,7 @@
       "voucher_sales": "クーポン販売",
       "loyalty_member_rejoin": "会員再入会費",
       "app_referral": "アプリの紹介",
-      "loyalty_badge_referral": "ロイヤルティバッジ紹介",
+      "loyalty_badge_referral": "ロイヤリティバッジ紹介",
       "filter": "取引種別で絞り込む",
       "purchase": "購入",
       "in_store_redeemption": "店頭での引き換え",
@@ -824,12 +824,13 @@
   "send_notification": {
     "columns": { 
       "subject": "件名", 
-      "send_date": "送信日" },
+      "send_date": "送信日時" 
+    },
     "buttons": {
       "new": "新しい通知を送信",
       "cancel": "キャンセル",
       "save": "保存",
-      "sure": "はい、確かです",
+      "sure": "閉じる",
       "loading": "ローディング中",
       "back": "戻る"
     },
@@ -852,7 +853,7 @@
       "subject": "件名",
       "message": "本文",
       "schedule": "送信スケジュール",
-      "send_date": "送信日",
+      "send_date": "送信日時",
       "header_image": "ヘッダー画像"
     },
     "modal": {
@@ -864,7 +865,7 @@
   "setup": {
     "label": {
       "earn_logic": "付与ロジック",
-      "redeem_logic": "ロジックを引き換えます",
+      "redeem_logic": "引き換えロジック",
       "earn_point_per": "あたり1ポイントを獲得します",
       "redeem_point_per": "に1ポイントを引き換えます",
       "set_welcome_point": "ウェルカムポイント＊",
@@ -983,7 +984,7 @@
       "loading": "ローディング中...",
       "ok": "わかった",
       "saving": "節約...",
-      "filter_by": "ろ過します",
+      "filter_by": "絞り込む",
       "footer": "©{{year}} {{brandname}}。 全著作権所有",
       "status": {
         "all": "すべて",
@@ -997,13 +998,13 @@
       "result": "結果",
       "item": "アイテム",
       "customer": "お客様",
-      "export_as": "にエクスポート",
+      "export_as": "エクスポート",
       "no_data": "表示する記録がありません",
       "rows_perpage": "ページあたりの行数",
       "of": "の",
       "search_report": "検索",
       "search": "探す",
-      "search_placeholder": "何探してんのさ？",
+      "search_placeholder": "検索",
       "to_status_click": "{{status}}に、下のボタンをクリックします",
       "status_confirmation": "{{status}}この{{target}}を{0}したいですか？",
       "edit": "編集",
@@ -1028,7 +1029,7 @@
     },
     "buttons": {
       "cancel_trx": "トランザクションをキャンセルします",
-      "deactive": "無効にする",
+      "deactive": "無効",
       "inactive": "無効",
       "active": "有効",
       "search": "探す",
@@ -1038,12 +1039,12 @@
       "cancel": "キャンセル",
       "back": "戻る",
       "delete_only": "消去",
-      "close": "近い",
+      "close": "キャンセル",
       "delete": "とにかく削除します",
       "edit": "編集",
       "update": "アップデート",
-      "sure": "私は確信しています",
-      "yes_sure": "はい、確かです"
+      "sure": "閉じる",
+      "yes_sure": "閉じる"
     },
     "modal": {
       "create": "{{target}}を作成します",
