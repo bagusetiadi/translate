@@ -1,0 +1,23 @@
+Name is a required - 氏名は必須です
+Username is a required - ユーザ名は必須です
+Super Admin - スーパー管理者
+Brand Admin - ブランド管理者
+Outlet Admin - 代理店管理者
+Store Admin - 店舗管理者
+Store cashier - 店舗従業員
+Place of birth is a required - 出身地は必須です
+Email is a required - メールアドレスは必須です
+Mobile Phone is a required - 携帯番号は必須です
+Address is a required - 住所情報は必須です
+Password is a required - パスワードは必須です
+Password confirmation is a required - パスワードの再確認が必須です
+pin is a required field - 暗証番号が必須です
+To Deactivate  it, click the button below - 無効にするには、次のボタンをクリックしてください
+<List Options> - ＜選択肢リスト＞
+Close / Exit anyway - キャンセル/閉じる
+Status : Activate - ステータス：有効にする
+To activate it, click the button below - 有効にするにはボタンをクリックしてください
+To deactivate it, click the button below - 無効にするにはボタンをクリックしてください
+National ID Card - マイナンバーカード
+Passports - パスポート
+Driver’s License - 運転免許証
