@@ -77,11 +77,9 @@ Send instructions  - メール送信
 Super Admin - スーパー管理者
 Search By Name, Role , Assigned at - 名前、ロール、位置で検索する
 Create User - 新規作成
-Name is a required - 氏名は必須です
 Brand Admin - ブランド管理者
 Outlet Admin - チャネル管理者
 Store Admin - 店舗管理者
-Store cashier  - 店舗従業員
 Place of birth is a required - 出身地は必須です
 Email is a required - メールアドレスは必須です
 Mobile Phone is a required - 携帯番号は必須です
