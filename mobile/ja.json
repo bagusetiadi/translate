@@ -276,14 +276,7 @@
     }
   },
   "scan": {
-    "title": "スキャン",
-
-    "myqr": "自分のQRコード",
-    "receive": "資金を受け取るには、送信者にQRコードをスキャンさせてください。",
-    "allowed_scan_label": "カメラをQRコードに向け、フレーム内に収めてスキャンしてください",
-    "unallowed_scan_label": "QRコードをスキャンできるように、設定→プライバシー→カメラから、MediaBankにアクセスを許可してください。",
-    "show_to_cashier": "このQRコードをレジ係または送金人にご提示ください。",
-
+    "title": "スキャン",    
     "myqr": "私のコード",
     "receive": "送金人にこのQRコードをスキャンしてもらってください。",
     "allowed_scan_label": "カメラをQRコードに向け、フレーム内に収めてスキャンしてください",
@@ -321,17 +314,6 @@
     "OFFERING": "募集"
   },
   "transactions": {
-
-    "trx_id": "取引番号：",
-    "recent": "最近のトランザクション",
-    "title_detail": "トランザクションの詳細",
-    "confirm_payment": "支払いを確認します",
-    "confirm_send": "送信確認",
-    "renew_membership": "メンバーシップを更新する",
-    "cancel_membership": "メンバーシップをキャンセルします",
-    "cancel_renewal": "更新を確認します",
-    "pay_fee": "料金を支払う",
-
     "trx_id": "取引番号: {{取引番号}}",
     "recent": "最近の取引履歴",
     "title_detail": "取引明細",
@@ -358,13 +340,8 @@
     }
   },
   "store": {
-
-    "near": "お近くの店",
-    "nearest": "距離が近いお店",
-
     "near": "近くにあるお店",
-    "nearest": "あなたに最も近い",
-
+    "nearest": "距離が近いお店",
     "fastest": "最速のピックアップ",
     "most": "人気が高い",
     "favourite": "お気に入りのお店",
@@ -512,7 +489,7 @@
     "topup_wallet": "チャージ",
     "report_trx": "取引レポート",
     "unused_value": "未使用のクーポンはもうすぐ期限が切れます。",
-    "back_to_cart": "カートに戻る"
+    "back_to_cart": "カートに戻る",
     "payable": "{{method}}支払可能",
     "insufient": "{{brandpoint}} ポイントが不足しているため、全額を支払うことができません。{{brandpoint}}ポイントをすべてご利用いただけますが、残りはウォレットから引き落としさせていただきます。",
     "topup_wallet": "チャージ",
@@ -570,7 +547,7 @@
     "installing": "インストール中...",
     "camera_permission": {
       "title": "カメラへのアクセスなし",
-      "message": "QRコードをスキャンするのに、設定からMediaBankにカメラへのアクセスを許可してください。"
+      "message": "QRコードをスキャンするのに、設定からMediaBankにカメラへのアクセスを許可してください。",
       "title": "カメラへのアクセスが無効になっています",
       "message": "QRコードをスキャンするのに、設定からカメラへのアクセスを {{brandapp}} に許可してください。"
     },
@@ -588,7 +565,7 @@
 
       "reject": "拒否",
       "next": "次",
-      "ok": "わかった"
+      "ok": "わかった",
       "reject": "拒絶",
       "next": "次へ",
       "ok": "許可",
