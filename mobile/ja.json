@@ -330,8 +330,6 @@
     "active": "進行中",
     "inactive": "非活性",
     "closed": "完了済み",
-
-    "closed": "閉じる",
     "status": {
       "rejected": "受け付けられませんでした",
       "waiting": {"text": "待っている", "desc": "お店側の受注待ち"},
